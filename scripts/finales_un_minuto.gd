@@ -132,3 +132,4 @@ static func pista_generica() -> Dictionary:
 	if IdiomaManager.idioma_actual == "en":
 		return FinalesUnMinutoEN.pista_generica()
 	return FinalesUnMinutoES.pista_generica()
+	
